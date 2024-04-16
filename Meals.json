@@ -1,0 +1,39 @@
+{
+    "Recipes": {
+        "Cheese Chicken Spaghetti Squash": {
+            "Ingredients": [
+                "1 lb Spaghetti Squash",
+                "0.5 tbsp olive oil",
+                "0.5 lb chicken or turkey (ground or shredded)",
+                "1 tbsp butter",
+                "Salt",
+                "Black pepper",
+                "Garlic cloves",
+                "Cayenne pepper",
+                "0.5 cup heavy whipping cream",
+                "1 oz cream cheese",
+                "1/4 cup shredded Parmesan cheese",
+                "1 cup shredded mozzarella cheese",
+                "Fresh parsley"
+            ],
+            "Recipe Steps": [
+                "Preheat oven to 400°F.",
+                "Poke a line in the center of squash with a fork, microwave for 3-4 minutes to soften.",
+                "Slice squash in half, remove seeds and fibers, place in a baking dish, brush with olive oil, season with salt and pepper, and bake at 400°F for 30-40 minutes.",
+                "In a frying pan, melt butter and sauté garlic, add meat to cook.",
+                "Reduce heat, add cream, cream cheese, Parmesan, and ⅔ of the mozzarella, simmer until creamy, season with spices.",
+                "Remove squash from oven, increase oven temperature to 450°F.",
+                "Loosen squash flesh with a fork, press down, top with cream sauce and remaining mozzarella, bake for 5 minutes.",
+                "Garnish with fresh parsley."
+            ],
+            "Nutritional Info per Serving": {
+                "Calories": 790,
+                "Fat": "58g",
+                "Carbohydrates": "22.5g",
+                "Fiber": "1.5g",
+                "Net Carbs": "21g",
+                "Protein": "46.5g"
+            }
+        }
+    }
+}
