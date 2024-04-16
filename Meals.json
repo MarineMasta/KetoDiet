@@ -1,39 +1,74 @@
 {
-    "Recipes": {
-        "Cheese Chicken Spaghetti Squash": {
+    "Recipes": [
+        {
+            "Recipe Name": "Cheese Chicken Spaghetti Squash",
+            "Recipe Type":["Dinner"],
             "Ingredients": [
-                "1 lb Spaghetti Squash",
-                "0.5 tbsp olive oil",
-                "0.5 lb chicken or turkey (ground or shredded)",
-                "1 tbsp butter",
+                ".5 lb Spaghetti Squash",
+                "0.25 tbsp olive oil",
+                "0.25 lb chicken or turkey (ground or shredded)",
+                "0.5 tbsp butter",
                 "Salt",
                 "Black pepper",
                 "Garlic cloves",
                 "Cayenne pepper",
-                "0.5 cup heavy whipping cream",
-                "1 oz cream cheese",
-                "1/4 cup shredded Parmesan cheese",
-                "1 cup shredded mozzarella cheese",
+                "0.25 cup heavy whipping cream",
+                "0.5 oz cream cheese",
+                "1/8 cup shredded Parmesan cheese",
+                "1/4 cup shredded mozzarella cheese",
                 "Fresh parsley"
             ],
-            "Recipe Steps": [
-                "Preheat oven to 400°F.",
-                "Poke a line in the center of squash with a fork, microwave for 3-4 minutes to soften.",
-                "Slice squash in half, remove seeds and fibers, place in a baking dish, brush with olive oil, season with salt and pepper, and bake at 400°F for 30-40 minutes.",
-                "In a frying pan, melt butter and sauté garlic, add meat to cook.",
-                "Reduce heat, add cream, cream cheese, Parmesan, and ⅔ of the mozzarella, simmer until creamy, season with spices.",
-                "Remove squash from oven, increase oven temperature to 450°F.",
-                "Loosen squash flesh with a fork, press down, top with cream sauce and remaining mozzarella, bake for 5 minutes.",
-                "Garnish with fresh parsley."
-            ],
-            "Nutritional Info per Serving": {
+            "Recipe Steps": "Preheat oven to 400°F. Poke a line in the center of squash with a fork, microwave for 3-4 minutes to soften. Slice squash in half, remove seeds and fibers, place in a baking dish, brush with olive oil, season with salt and pepper, and bake at 400°F for 30-40 minutes. In a frying pan, melt butter and sauté garlic, add meat to cook. Reduce heat, add cream, cream cheese, Parmesan, and ⅔ of the mozzarella, simmer until creamy, season with spices. Remove squash from oven, increase oven temperature to 450°F. Loosen squash flesh with a fork, press down, top with cream sauce and remaining mozzarella, bake for 5 minutes. Garnish with fresh parsley before serving.",
+            "Nutritional Info": {
                 "Calories": 790,
-                "Fat": "58g",
-                "Carbohydrates": "22.5g",
+                "Fat": "58",
+                "Carbohydrates": "22g",
+                "Fiber": "2g",
+                "Net Carbs": "20g",
+                "Protein": "47g"
+            }
+        },
+        {
+            "Recipe Name": "Chicken Tacos",
+            "Recipe Type":["Dinner","Lunch"],
+            "Ingredients": [
+                "1 Low carb tortilla",
+                "1.5oz lb Shredded chicken (can be pre-cooked shredded chicken, rotisserie chicken, or chicken breast)",
+                "1/8 cup Reduced fat 4 Mexican cheese",
+                "Taco Bell mild sauce",
+                "Salt",
+                "Pepper",
+                "Cajun seasoning",
+                "Onion powder"
+            ],
+            "Recipe Steps": "Combine the chicken with salt, pepper, Cajun seasoning, and onion powder. Add the seasoned chicken to the tortilla. Top with reduced fat Mexican cheese and Taco Bell mild sauce.",
+            "Nutritional Info": {
+                "Calories": 130,
+                "Fat": "7g",
+                "Carbohydrates": "3g",
                 "Fiber": "1.5g",
-                "Net Carbs": "21g",
-                "Protein": "46.5g"
+                "Net Carbs": "1.5g",
+                "Protein": "17.5g"
             }
         }
-    }
+        {
+            "Recipe Name": "Tuna Sandwich",
+            "Recipe Type":["Lunch"],
+            "Ingredients": [
+                "2 slices keto hawaiian bread",
+                "1 pounch of light tuna in water",
+                "1 slice of pepperjack cheese",
+                "1 tbsp light mayo"
+            ],
+            "Recipe Steps": "Lather the mayo onto the bread. Add the tuna and cheese. Enjoy!",
+            "Nutritional Info": {
+                "Calories": 255,
+                "Fat": "13g",
+                "Carbohydrates": "19g",
+                "Fiber": "16g",
+                "Net Carbs": "3g",
+                "Protein": "33g"
+            }
+        }
+    ]
 }
